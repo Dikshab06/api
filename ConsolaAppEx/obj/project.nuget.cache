@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQUlwbMP7pbjG/ClEVPthVp1vgzFsuHOOO/ZQIxIVfeD1JOwWTYlJG8ZpDsmirZIQ/Udk2uXlHvO45ufJmBG3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\DikshaBhrigue_220001674\\ConsolaAppEx\\ConsolaAppEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
