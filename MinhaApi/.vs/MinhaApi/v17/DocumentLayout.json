@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IS\\MinhaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|c:\\is\\minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|c:\\is\\minhaapi\\iscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|solutionrelative:iscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|c:\\is\\minhaapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|c:\\is\\minhaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|c:\\is\\minhaapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|c:\\is\\minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222EE3D9-15E4-480B-9475-FD2668200758}|MinhaApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\IS\\MinhaApi\\MinhaApi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MinhaApi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\IS\\MinhaApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\IS\\MinhaApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T20:18:04.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MinhaApi.http",
+              "DocumentMoniker": "C:\\IS\\MinhaApi\\MinhaApi.http",
+              "RelativeDocumentMoniker": "MinhaApi.http",
+              "ToolTip": "C:\\IS\\MinhaApi\\MinhaApi.http",
+              "RelativeToolTip": "MinhaApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-13T20:11:49.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IsController.cs",
+              "DocumentMoniker": "C:\\IS\\MinhaApi\\IsController.cs",
+              "RelativeDocumentMoniker": "IsController.cs",
+              "ToolTip": "C:\\IS\\MinhaApi\\IsController.cs",
+              "RelativeToolTip": "IsController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwDcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:05:45.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\IS\\MinhaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\IS\\MinhaApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T19:25:38.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\IS\\MinhaApi\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\IS\\MinhaApi\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:14:00.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IS\\MinhaApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\IS\\MinhaApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:04:30.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\IS\\MinhaApi\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\IS\\MinhaApi\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:02:46.276Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
